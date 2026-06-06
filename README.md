@@ -57,14 +57,6 @@ Python распространяется под **PSF License** (Python Software 
 
 Используйте на свой риск. Для производственных систем рекомендуется скачивать с официального сайта [python.org](https://www.python.org/).
 
-## Как обновить версии
-
-1. Скачайте новый установщик с [python.org](https://www.python.org/downloads/windows/)
-2. Создайте новый Release на GitHub
-3. Загрузите установщик в Release
-
-Или используйте GitHub Actions (см. `.github/workflows/mirror.yml`)
-
 ## Ссылки
 
 - Официальный сайт Python: https://www.python.org/
